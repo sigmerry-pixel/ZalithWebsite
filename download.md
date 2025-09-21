@@ -9,4 +9,4 @@ sidebar: false
 
 💡 **试试新的 Zalith Launcher 2？**  
 
-[跳转页面](./zl2-download)
+[跳转页面](./zl2-download) well bro tungtung arrived so yes tungtung is out savioru
